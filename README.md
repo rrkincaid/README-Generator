@@ -1,17 +1,41 @@
-# Me ![license](https://img.shields.io/badge/license-APACHE-brightgreen)
-  1. [Description](#description)
-  2. [User Story](#user-story)
-  3. [Acceptance Criteria](#acceptance-criteria)
-  4. [Github Repository](#github-repository)
-  5. [Gitignore](#gitignore-details)
+# README Generator | Module 9 HW ![license](https://img.shields.io/badge/license-GNU-brightgreen)
 
-  ## Description
-  basics
-  ## User Story
-  user
-  ## Acceptance Criteria
-  acceptance
-  ## Github Repository
-  repo
-  ## Gitignore Details
-  gitignore
+1. [Description](#description)
+2. [User Story](#user-story)
+3. [Acceptance Criteria](#acceptance-criteria)
+4. [Github Repository](#github-repository)
+5. [Gitignore](#gitignore-details)
+
+## Description
+
+The task is to create a command-line application that dynamically generates a professional README.md file from a user's input using inquirer.
+
+## User Story
+
+USER to create README generator SO THAT a professional README can be quickly created for a new project
+
+## Acceptance Criteria
+
+GIVEN a command-line application that accepts user input
+WHEN I am prompted for information about my application repository
+THEN a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
+WHEN I enter my project title
+THEN this is displayed as the title of the README
+WHEN I enter a description, installation instructions, usage information, contribution guidelines, and test instructions
+THEN this information is added to the sections of the README entitled Description, Installation, Usage, Contributing, and Tests
+WHEN I choose a license for my application from a list of options
+THEN a badge for that license is added near the top of the README and a notice is added to the section of the README entitled License that explains which license the application is covered under
+WHEN I enter my GitHub username
+THEN this is added to the section of the README entitled Questions, with a link to my GitHub profile
+WHEN I enter my email address
+THEN this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions
+WHEN I click on the links in the Table of Contents
+THEN I am taken to the corresponding section of the README
+
+## Github Repository
+
+https://github.com/rrkincaid/README-Generator & https://rrkincaid.github.io/README-Generator/
+
+## Gitignore Details
+
+node module and ds store
