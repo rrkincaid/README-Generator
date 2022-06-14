@@ -1,18 +1,19 @@
-# README Generator | Module 9 HW ![license](https://img.shields.io/badge/license-GNU-brightgreen)
+# README Generator | Module 9 HW ![license](https://img.shields.io/badge/license-APACHE-brightgreen)
 
 1. [Description](#description)
 2. [User Story](#user-story)
 3. [Acceptance Criteria](#acceptance-criteria)
 4. [Github Repository](#github-repository)
 5. [Gitignore](#gitignore-details)
+6. [Video Walkthrough](#video-walkthrough)
 
 ## Description
 
-The task is to create a command-line application that dynamically generates a professional README.md file from a user's input using inquirer.
+THe task is the create a command-line application that dynamically generates a professional README.md file from a users input using inquirer.
 
 ## User Story
 
-USER to create README generator SO THAT a professional README can be quickly created for a new project
+USER to create README generator SO THAT a professional README can be quickly created for a new project.
 
 ## Acceptance Criteria
 
@@ -39,3 +40,7 @@ https://github.com/rrkincaid/README-Generator & https://rrkincaid.github.io/READ
 ## Gitignore Details
 
 node module and ds store
+
+## Video Walkthrough
+
+https://drive.google.com/file/d/19WM0otyHjdVaqI9hZxBi5t38GJeosnVm/view
